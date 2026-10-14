@@ -44,7 +44,7 @@
 
 | Сеть | SSH | Мониторинг |
 |---|---|---|
-| ![Статическая конфигурация](docs/images/netplan-static-config.png) | ![Настройка SSH](docs/images/ssh-port-config.png) | ![Мониторинг процессов](docs/images/htop-dashboard.png) |
+| ![Статическая конфигурация](docs/images/part_3-7.png) | ![Настройка SSH](docs/images/part_8-3.png) | ![Мониторинг процессов](docs/images/part_9-9.png) |
 
 ## Воспроизведение и проверка
 
